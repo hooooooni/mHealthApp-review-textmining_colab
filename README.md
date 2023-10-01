@@ -6,7 +6,7 @@
 https://heytech.tistory.com/401 (티스토리) <br>
 https://github.com/park-gb/mHealthApp-review-textmining (원본 깃허브 레포) <br>
 
-해당 자료는 heytech님의 ‘LDA 토픽 모델링을 활용한 앱 리뷰 분석 프로젝트’를 Python과 Jupyter가 익숙하지 않은 학생들을 위해 자세하게 분석해 놓은 자료입니다.
+해당 자료는 heytech님의 ‘LDA 토픽 모델링을 활용한 앱 리뷰 분석 프로젝트’를 Python과 Jupyter가 익숙하지 않은 학생들을 위해 자세하게 분석해 놓았으며, Colab 환경에서 작동할 수 있도록 코드 변형을 거친 repo입니다.
 
 
 # 2. 폴더 구조
