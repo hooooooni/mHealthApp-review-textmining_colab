@@ -6,7 +6,8 @@
 https://heytech.tistory.com/401 (티스토리) <br>
 https://github.com/park-gb/mHealthApp-review-textmining (원본 깃허브 레포) <br>
 
-해당 자료는 heytech님의 ‘LDA 토픽 모델링을 활용한 앱 리뷰 분석 프로젝트’를 Python과 Jupyter가 익숙하지 않은 학생들을 위해 자세하게 분석해 놓았으며, Colab 환경에서 작동할 수 있도록 코드 변형을 거친 repo입니다.
+해당 자료는 heytech님의 ‘LDA 토픽 모델링을 활용한 앱 리뷰 분석 프로젝트’를 변형하여 인스타그램 앱을 분석하였고,
+Python과 Jupyter가 익숙하지 않은 학생들을 위해 자세하게 분석해 놓았으며, Colab 환경에서 작동할 수 있도록 코드 변형을 거친 repo입니다.
 
 
 # 2. 폴더 구조
@@ -26,6 +27,6 @@ https://github.com/park-gb/mHealthApp-review-textmining (원본 깃허브 레포
 (5) replace_list.xlsx (**단어 치환 리스트)** <br>
 (6) stopword_list.xlsx (**불용어 리스트)** <br>
 
-## 3) OKT_colab.ipynb
+## 3) OKT_colab_crawling.ipynb
 해당 파일의 코드를 코랩에 돌리시면 됩니다. <br>
 (코드 설명도 함께 해두었습니다.)
